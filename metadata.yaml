@@ -1,0 +1,28 @@
+_repo: Rodmoor-A-Romance_53339
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powys, John Cowper
+    birthdate: 1872
+    deathdate: 1963
+    gutenberg_agent_id: '4710'
+    url: http://www.gutenberg.org/2009/agents/4710
+    wikipedia: http://en.wikipedia.org/wiki/John_Cowper_Powys
+description: ''
+gutenberg_issued: '2016-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'East Anglia (England) -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mentally ill -- Fiction'
+- GITenberg
+title: 'Rodmoor: A Romance'
+url: http://www.gutenberg.org/ebooks/53339
